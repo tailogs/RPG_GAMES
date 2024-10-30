@@ -34,6 +34,10 @@ This project is a basic RPG game structure using the SFML library for graphics, 
 - **resource.rc**: Resource file for Windows
 - **README.md**: This file
 
+## Tutorial install SFML (mingw) to VSCODE
+
+Video: https://youtu.be/jKbWBcVPLWQ?si=V_tRKK-mcBykcHBP
+
 ## Building and Running
 
 1. Make sure you have the necessary dependencies installed, including SFML.
