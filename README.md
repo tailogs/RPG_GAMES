@@ -36,6 +36,8 @@ This project is a basic RPG game structure using the SFML library for graphics, 
 
 ## Tutorial install SFML (mingw) to VSCODE
 
+You need to download the 64-bit MinGW (the latest version is called WinLibs MSVCRT 13.1.0 (64-bit)) from this website: https://www.sfml-dev.org/download/sfml/2.6.1/. Then, add it to the path variable above your existing MinGW installation, so that SFML can work properly.
+
 Video: https://youtu.be/jKbWBcVPLWQ?si=V_tRKK-mcBykcHBP
 
 ## Building and Running
